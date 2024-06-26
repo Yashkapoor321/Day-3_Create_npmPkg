@@ -1,4 +1,4 @@
-# binary-search
+# Binary Search
 
 A simple and efficient binary search function implemented in JavaScript.
 
